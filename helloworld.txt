@@ -1,2 +1,7 @@
 Name - Yusman Alharis
+<<<<<<< .merge_file_a12764
 Address - Jakarta
+=======
+Address - Cimohay
+Phone -123456789
+>>>>>>> .merge_file_a07084
